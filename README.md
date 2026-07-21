@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
