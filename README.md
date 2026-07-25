@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0349-intersection-of-two-arrays](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
@@ -65,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0933-number-of-recent-calls) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
