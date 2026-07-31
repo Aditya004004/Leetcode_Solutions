@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0738-monotone-increasing-digits](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0738-monotone-increasing-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
+## Math
+|  |
+| ------- |
+| [0738-monotone-increasing-digits](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0738-monotone-increasing-digits) |
 <!---LeetCode Topics End-->
