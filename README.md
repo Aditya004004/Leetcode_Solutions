@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
