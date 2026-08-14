@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -170,4 +172,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
