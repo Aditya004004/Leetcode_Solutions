@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0738-monotone-increasing-digits](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0738-monotone-increasing-digits) |
+| [1927-sum-game](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1927-sum-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0482-license-key-formatting](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0482-license-key-formatting) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [1927-sum-game](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0738-monotone-increasing-digits](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0738-monotone-increasing-digits) |
 | [1140-stone-game-ii](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
