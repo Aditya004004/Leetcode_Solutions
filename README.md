@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 ## Data Stream
 |  |
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
