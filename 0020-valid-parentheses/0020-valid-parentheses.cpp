@@ -1,14 +1,10 @@
 class Solution {
 public:
     bool isValid(string s) {
-        unordered_map<char,char>mp={
-            {')','('},
-            {'}','{'},
-            {']','['}
-        };
+     unordered_map<char,char>mp{{')','('},{'}','{'},{']','['}};
         stack<char>st;
         for(char c:s){
-            if(c=='(' || c=='[' || c=='{'){
+            if(c=='('||c=='{'||c=='['){
                 st.push(c);
             }
             else{
