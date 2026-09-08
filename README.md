@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
 ## Enumeration
 |  |
 | ------- |
