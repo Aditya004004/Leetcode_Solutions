@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
+| [0835-image-overlap](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0835-image-overlap) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0994-rotting-oranges](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 ## Math
 |  |
