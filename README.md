@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0093-restore-ip-addresses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0093-restore-ip-addresses) |
 | [0242-valid-anagram](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0482-license-key-formatting](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0482-license-key-formatting) |
 | [0831-masking-personal-information](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0831-masking-personal-information) |
@@ -274,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
