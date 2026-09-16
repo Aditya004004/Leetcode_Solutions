@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0482-license-key-formatting) |
+| [0796-rotate-string](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0831-masking-personal-information) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1927-sum-game](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1927-sum-game) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
