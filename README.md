@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1927-sum-game](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3524-find-x-value-of-array-i](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
 ## Enumeration
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0198-house-robber](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [1140-stone-game-ii](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Minimax
 |  |
 | ------- |
