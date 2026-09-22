@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0093-restore-ip-addresses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0093-restore-ip-addresses) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0198-house-robber](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [1140-stone-game-ii](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
