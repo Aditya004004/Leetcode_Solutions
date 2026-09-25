@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0027-remove-element) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0093-restore-ip-addresses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0093-restore-ip-addresses) |
@@ -318,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
