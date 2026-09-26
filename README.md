@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0328-odd-even-linked-list) |
