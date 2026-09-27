@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0831-masking-personal-information) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1927-sum-game](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0901-online-stock-span) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
