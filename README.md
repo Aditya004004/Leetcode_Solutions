@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0093-restore-ip-addresses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0093-restore-ip-addresses) |
 | [0242-valid-anagram](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0242-valid-anagram) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0198-house-robber](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [1140-stone-game-ii](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0093-restore-ip-addresses) |
 ## Geometry
 |  |
