@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0738-monotone-increasing-digits](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0738-monotone-increasing-digits) |
 | [1927-sum-game](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1927-sum-game) |
 ## Hash Table
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0482-license-key-formatting) |
+| [0678-valid-parenthesis-string](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0831-masking-personal-information) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0901-online-stock-span) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0198-house-robber](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0198-house-robber) |
+| [0678-valid-parenthesis-string](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1140-stone-game-ii](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Minimax
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
