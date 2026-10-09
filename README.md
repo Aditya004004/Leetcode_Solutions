@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0835-image-overlap](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0835-image-overlap) |
+| [0875-koko-eating-bananas](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0994-rotting-oranges](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0875-koko-eating-bananas](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
