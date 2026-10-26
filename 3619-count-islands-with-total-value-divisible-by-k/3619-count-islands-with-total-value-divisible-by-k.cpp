@@ -1,44 +1,39 @@
 class Solution {
 public:
-    int countIslands(vector<vector<int>>& grid, int k) {
-        int m = grid.size(), n = grid[0].size();
-        vector<vector<bool>> visited(m, vector<bool>(n, false));
+    long long dfs(vector<vector<int>>& grid, int x, int y) {
+        int m = grid.size();
+        int n = grid[0].size();
 
+        if (x < 0 || x >= m || y < 0 || y >= n ||
+            grid[x][y] == 0) {
+            return 0;
+        }
+
+        long long value = grid[x][y];
+        grid[x][y] = 0;
+
+        value += dfs(grid, x + 1, y);
+        value += dfs(grid, x - 1, y);
+        value += dfs(grid, x, y + 1);
+        value += dfs(grid, x, y - 1);
+
+        return value;
+    }
+
+    int countIslands(vector<vector<int>>& grid, int k) {
+        int m = grid.size();
+        int n = grid[0].size();
         int ans = 0;
-        int dx[] = {-1, 1, 0, 0};
-        int dy[] = {0, 0, -1, 1};
 
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 0 || visited[i][j])
-                    continue;
+                if (grid[i][j] > 0) {
+                    long long sum = dfs(grid, i, j);
 
-                long long sum = 0;
-                queue<pair<int, int>> q;
-                q.push({i, j});
-                visited[i][j] = true;
-
-                while (!q.empty()) {
-                    auto [x, y] = q.front();
-                    q.pop();
-                    sum += grid[x][y];
-
-                    for (int d = 0; d < 4; d++) {
-                        int nx = x + dx[d];
-                        int ny = y + dy[d];
-
-                        if (nx >= 0 && nx < m &&
-                            ny >= 0 && ny < n &&
-                            grid[nx][ny] > 0 &&
-                            !visited[nx][ny]) {
-                            visited[nx][ny] = true;
-                            q.push({nx, ny});
-                        }
+                    if (sum % k == 0) {
+                        ans++;
                     }
                 }
-
-                if (sum % k == 0)
-                    ans++;
             }
         }
 
