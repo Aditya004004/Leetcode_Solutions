@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1590-make-sum-divisible-by-p) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -494,11 +498,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
