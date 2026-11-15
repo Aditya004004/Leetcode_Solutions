@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-ways-to-make-a-fair-array](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1882-process-tasks-using-servers](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1882-process-tasks-using-servers) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2747-count-zero-request-servers](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/2747-count-zero-request-servers) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2747-count-zero-request-servers](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/2747-count-zero-request-servers) |
