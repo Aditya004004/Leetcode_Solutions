@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String Matching
 |  |
 | ------- |
@@ -556,4 +560,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aditya004004/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
